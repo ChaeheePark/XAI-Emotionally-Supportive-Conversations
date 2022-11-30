@@ -25,13 +25,13 @@ def create_arff(input_file,output_file):
     
 
 
-    out=open(output_file,"w",encoding='utf8')
+    out=open(output_file,"w")  
     header='@relation '+input_file+'\n\n@attribute id numeric \n@attribute tweet string\n@attribute emotion string\n@attribute score numeric \n\n@data\n'
     out.write(header)
        
 
        
-    f=open(input_file, "r",encoding='utf8')
+    f=open(input_file, "rb")
     lines=f.readlines()
     
     
@@ -48,7 +48,7 @@ def create_arff(input_file,output_file):
             out_line=id+',\"'+tweet+'\",'+'\"'+emotion+'\",'+score+'\n'
             out.write(out_line)
         else:
-            print("Wrong format"+str(line))
+            print "Wrong format"
     
 
     f.close()  

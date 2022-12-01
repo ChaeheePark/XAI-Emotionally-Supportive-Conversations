@@ -1,0 +1,29 @@
+{
+  "model_name": "strat_emotion_blenderbot_small",
+  "pretrained_model_path": "./Blenderbot_small-90M",
+  "custom_config_path": null,
+  "gradient_checkpointing": false,
+
+  "expanded_vocab": [
+    "[anger]",
+    "[anxiety]",
+    "[depression]",
+    "[disgust]",
+    "[fear]",
+    "[guilt]",
+    "[jealousy]",
+    "[nervousness]",
+    "[pain]",
+    "[sadness]",
+    "[shame]",
+    "[neutral]",
+    "[Question]",
+    "[Restatement or Paraphrasing]",
+    "[Reflection of feelings]",
+    "[Self-disclosure]",
+    "[Affirmation and Reassurance]",
+    "[Providing Suggestions]",
+    "[Information]",
+    "[Others]"
+  ]
+}

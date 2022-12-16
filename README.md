@@ -1,6 +1,7 @@
 # On the Deep Generative Models Explaining the Rationale to Emotionally Supportive Conversations
 
 by *Eunhye Jeong^, Chaehee Park^, Hyejin Hong and Jeehang Lee** (^ = equal contribution in the paper)
+**Best Paper Award in KOSES 2022 Korea, Busan**
 
 This repository contains all the documented scripts and files (or links for downloading some resources) to run our experiments.
 

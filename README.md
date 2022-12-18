@@ -27,5 +27,8 @@ We trained and run each model of **Emotion Supportive Chatbot** and **Neutral Em
 ## Neutral Emotion Intensity Prediction
 ### To successfully and smoothly run our experiments, please follow the steps below - 
 
-1. Intensity 하는 방법 적어주세용
-2. 🖤
+1. Collect all the dialogues of user inputs and Head to *XAI-Emotionally-Supportive-Conversations/Neutral_Emotion_Intensity_Prediction/data/test* directory.
+2. You will see a total of 4 files in *eval(anger, pear, joy, sadness).txt* in the current directory.
+3. If you open a file(ex: *evalanger.txt*), you can see that there are sentences in the second column, and replace them with all the dialogues of user inputs. Note that you need to replace the user inputs from the top, and the rest should be the original set length. (Reference Code: ~) Repeat for all 4 files.
+4. Head to *XAI-Emotionally-Supportive Conversations/Neutral_Emotion_Intensity_Prediction* and follow the instructions in that README to number 5.
+5. Run *codes/Multi_task/LE_PC_DMTL_EI_Demo.py* to see the intensity of each of anger, pear, joy, and sadness. At this time, `y_pred_(anger, pear, joy, sadness)` at the end of the code can be checked by using `print` as many as the number of user inputs.(ex:`print(y_pred_joy[:10])` )

@@ -20,8 +20,18 @@ We trained and run each model of **Emotion Supportive Chatbot** and **Neutral Em
 ## Emotional Support Conversation
 ### To successfully and smoothly run our experiments, please follow the steps below - 
 
-1. 여기에 Emotional support Conversation Run 하는 방법 적어주세용
-2. 🖤
+1. Preparing Enviroment
+```bash
+conda env create -f env.yml -n cuda
+conda activate cuda
+```
+2. You should first download the [BlenderBot-small](https://huggingface.co/facebook/blenderbot_small-90M) model and replace the fake `pytorch_model.bin` file in `Blenderbot_small-90M` with the true one. If you would like to evaluate generated results with Embedding-based similarity, you can download my prepared embedding files from [here](https://1drv.ms/f/s!Aky8v8NZbQx1qj7OlJKcQEJ6qrWm).
+3. Run `bash RUN/prepare_strat_emotion.sh` to preprocess the training data.
+4. Train / inference / interact
+- Train: Run `bash RUN/train_strat_emotion.sh` to train your model.
+- inference: Every time of model training will create a new folder in `DATA/{inputter_name}.{config_name}`, which is named after the time when the training starts. You should select a checkpoint (it may be based on the PPL of validation), and replace the checkpoint path in `RUN/infer_strat_emotion.sh --load_checkpoint` with the path of your selected checkpoint. Then, run `bash RUN/infer_strat_emotion.sh` to do the inference.
+- interact: Similar to inference, after designating the checkpoint in `RUN/interact_strat_emotion.sh- -load_checkpoint`, run `bash RUN/interact_strat_emotion.sh`.
+
 
 
 ## Neutral Emotion Intensity Prediction

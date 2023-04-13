@@ -34,10 +34,10 @@ conda activate cuda
 
 
 
-## Neutral Emotion Intensity Prediction
+## Neural Emotion Intensity Prediction
 ### To successfully and smoothly run our experiments, please follow the steps below - 
 
-1. Collect all the dialogues of user inputs and Head to *XAI-Emotionally-Supportive-Conversations/Neutral_Emotion_Intensity_Prediction/data/test* directory.
+1. Collect all the dialogues of user inputs and Head to *XAI-Emotionally-Supportive-Conversations/Neural_Emotion_Intensity_Prediction/data/test* directory.
 2. You will see a total of 4 files in *eval(anger, pear, joy, sadness).txt* in the current directory.
 3. If you open a file(ex: *evalanger.txt*), you can see that there are sentences in the second column, and replace them with all the dialogues of user inputs. Note that you need to replace the user inputs from the top, and the rest should be the original set length. (Reference Code: ~) Repeat for all 4 files.
 4. Head to *XAI-Emotionally-Supportive Conversations/Neutral_Emotion_Intensity_Prediction* and follow the instructions in that README to number 5.

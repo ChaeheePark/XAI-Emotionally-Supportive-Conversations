@@ -1,8 +1,0 @@
-@relation C:/Users/chaeh/Downloads/Neural_Emotion_Intensity_Prediction-master/Neural_Emotion_Intensity_Prediction-master/data/train/anger.txt
-
-@attribute id numeric 
-@attribute tweet string
-@attribute emotion string
-@attribute score numeric 
-
-@data

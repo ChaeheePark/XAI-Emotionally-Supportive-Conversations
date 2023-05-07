@@ -1,0 +1,681 @@
+@relation C:/Users/chaeh/Downloads/Neutral_Emotion_Intensity_Prediction/data/test/evalsadness.txt
+
+@attribute id numeric 
+@attribute tweet string
+@attribute emotion string
+@attribute score numeric 
+
+@data
+40860,"hello","sadness",?
+40861,"hi there, how are you today?","sadness",?
+40862,"not good... I lost my job because of covid19. I don't know when I can get back to work again.","sadness",?
+40863,"i am so sorry to hear that! i know how difficult it can be to lose a job, especially if you are in a hard time.","sadness",?
+40864,"My friend is going through the same situation as me.","sadness",?
+40865,"i am sorry to hear that. it is a difficult time for anyone.","sadness",?
+40866,"I'm so depressed...","sadness",?
+40867,"i am so sorry to hear that.","sadness",?
+40868,"Thank you for agreeing with me.","sadness",?
+40869,"you are very welcome! i wish you the best of luck!","sadness",?
+40870,"thanks...!","sadness",?
+40871,"you're welcome! good luck to you!","sadness",?
+40872,"okay. I will talk to him! thanks ","sadness",?
+40873,"i'm sure that he'll understand.","sadness",?
+40874,"Okay! bye","sadness",?
+40875,"i hope it goes well for you.","sadness",?
+40876,"thanks. bye!","sadness",?
+40877,"bye!!! : ).","sadness",?
+40878,"hello","sadness",?
+40879,"hi there, how are you doing today?","sadness",?
+40880,"Someone stepped on my feet! So I'm so mad!","sadness",?
+40881,"i am sorry to hear that. did you tell them what happened?","sadness",?
+40882,"i was walking through my neighborhood and some guy stepped on my foot.","sadness",?
+40883,"wow that is very bad! i am so sorry to hear that.","sadness",?
+40884,"He didn't even apologize!!","sadness",?
+40885,"did he apologize for it? or did you just leave it out?","sadness",?
+40886,"He just left.","sadness",?
+40887,"oh i am so sorry. have you told them what happened?","sadness",?
+40888,"no...","sadness",?
+40889,"it's really not that big of a deal. i would be mad if someone did that to me.","sadness",?
+40890,"Thank you for your understanding!","sadness",?
+40891,"no problem, i wish you the best of luck!","sadness",?
+40892,"thanks~!","sadness",?
+40893,"it's been nice to talk to you!!","sadness",?
+40894,"okay, bye!","sadness",?
+40895,"bye!!! i hope you feel better soon!!","sadness",?
+40896,"hi, how are you?","sadness",?
+40897,"hello, how are you? what's going on?","sadness",?
+40898,"I'm so depressed because I can't sleep these days.","sadness",?
+40899,"i'm sorry to hear that. are you having problems sleeping?","sadness",?
+40900,"how can I sleep well?","sadness",?
+40901,"i have experienced this problem myself. i try to take a few small tidbit of peaceful music before bed to help myself stay awake.","sadness",?
+40902,"oh, that's a good idea!","sadness",?
+40903,"i also find that getting up and running in the woods helps me fall asleep.","sadness",?
+40904,"I'll try that, thank you!","sadness",?
+40905,"you're welcome! i hope it helps a bit.","sadness",?
+40906,"The project I've been working on for a year has failed. I'm so sad.","sadness",?
+40907,"so you're saying you've been working on it for a year, but it failed?","sadness",?
+40908,"Yes. I tried really hard, but I failed. I'm so sad","sadness",?
+40909,"i've been there. i have a lot of projects that have failed and i have to remind myself that they're over.","sadness",?
+40910,"You're right. I'd love to, but it's not working","sadness",?
+40911,"have you tried talking to your boss about it? sometimes things like this can help to clear your head.","sadness",?
+40912,"I'll give it a try.","sadness",?
+40913,"i'm glad i could help!","sadness",?
+40914,"Thank you very much for your advice!","sadness",?
+40915,"you're very welcome! i hope you feel better.","sadness",?
+40916,"I lost my job because of covid.","sadness",?
+40917,"i'm so sorry to hear that. that is extremely difficult.","sadness",?
+40918,"I have to find a job again, but it's not easy.","sadness",?
+40919,"i'm so sorry to hear that.","sadness",?
+40920,"Can I get a job again?","sadness",?
+40921,"i know it can be difficult to get a new job, but i know that you can.","sadness",?
+40922,"Thank you, I'll try hard.","sadness",?
+40923,"i'm sure you will do great.","sadness",?
+40924,"My friend lost his job because of COVID-19 like me, but he found a new job this time.","sadness",?
+40925,"you are very welcome. i hope you have a great new year.","sadness",?
+40926,"thanks!","sadness",?
+40927,"@space_gayz high fantasy , i feel like you could make a melancholy college age slice of life thing work too","sadness",?
+40928,"Over 70% of social sharing is dark &amp; over 50% of web traffic comes from #darksocial. @colinzalewski #LIFTSocial","sadness",?
+40929,"At least I don't have a guy trying to discourage me anymore in what I want to do he will never become anything worth contributing to society","sadness",?
+40930,"@TheBenNatan szn 3 &gt;&gt;&gt; szn 1 &gt;&gt;&gt; szn 2. Just to warn you. Don't let szn 2 discourage you.","sadness",?
+40931,"@nigeriaLNG @TonyAttah #lestweforget 3 yrs on, 2013 Graduate Trainee recruitment not concluded. #disappointed #weary however  #wewait","sadness",?
+40932,"Go help the cause.@plantingaseed.net. #recovery  #sober #addiction","sadness",?
+40933,"@MariamVeiszadeh it's getting so close in your poll so many ignorant ppl. #depressing #painful something needs to change #BeTheChange ? How?","sadness",?
+40934,"@TicciKasie1 //this is sadly what my history teacher talked about why the fuck do I remember that?!","sadness",?
+40935,"Defining yourself in terms of opposition, i.e. the clouded mirror phenomena, is almost always a mistake.","sadness",?
+40936,"It serves a gloomy higher than the wolves of the village","sadness",?
+40937,"Finally watched #hungergamesmockingjay2 this morning, sadly I feel a little disappointed #toomuchhype","sadness",?
+40938,"@TheCatCampbell I too am Ravenclaw. #sadness #shouldhavebeenhufflepuff","sadness",?
+40939,"Now I'm going to sulk again for a week until #OurGirl is back on! @michkeegan and @benaldridge07 are the best! @OurGirlWatch","sadness",?
+40940,"@BokuNoGio AND his momma was worse than Tony sopranos momma #wow #sad #history #major","sadness",?
+40941,"@BokuNoGio AND his momma was worse than Tony sopranos momma #wow  #history #major","sadness",?
+40942,"@TrueRyuga I tore my MLC playing football in HS. Knees are serious business. Take care of them! Lemme know if you need anything.","sadness",?
+40943,"@MlaStandard The depth that you've sunk to. You're readership deserves more.","sadness",?
+40944,"when season 13 of greys anatomy premieres today. it you're only on season 7 #sadness :(","sadness",?
+40945,"@thixotropic No. Was so sudden. Hasn't sunk in yet. With Leo I knew it was coming.","sadness",?
+40946,"Long day, kind tweets, our melancholy, @DownFrontArtist defeats.","sadness",?
+40947,"Dream show how cisco 642-188 pdf melancholy: aHid","sadness",?
+40948,"Not a great start but good comeback from the boys to earn a point. Bring on Saturday #blues","sadness",?
+40949,"Living with #depression doesn't mean you must be defeated by it\nevery day's a new day and yesterday doesn't decide what today looks like :-)","sadness",?
+40950,"@Magrove86Mark @clareftballnews jersey gloves?  #dark","sadness",?
+40951,"Been a while since I been sober. This life can be so hard","sadness",?
+40952,"Just reached 10k followers - WOW - thanks blues #mcfc #ctid","sadness",?
+40953,"When mine pass, I know I'll be inconsolable &amp; devastated. For a while.","sadness",?
+40954,"I'm throwing myself straight into American Horror Story so I don't have time to grieve","sadness",?
+40955,"*Sigh* #depression #saddness #afterellen #shitsucks","sadness",?
+40956,"@rosalilium I'm wearing all black tomorrow to mourn. 😭💔","sadness",?
+40957,"eun: im really unhappy with this and i dont like her like that pls dont\n\nyall: okay but SHE loves HIM","sadness",?
+40958,"@yesnicksearcy @counterparty Although I don't expect a trumpie to understand the difference between real things and pretend things. #sad","sadness",?
+40959,"@yesnicksearcy @counterparty Although I don't expect a trumpie to understand the difference between real things and pretend things. ","sadness",?
+40960,"You can tell the camp isn't happy purely through Bojan and Muni.\n\nBoth normally fab guys, yet completely dejected. Something isn't right..","sadness",?
+40961,"Migraine hangover all day. Stood up to do dishes and now I'm exhausted again. GAD, depression &amp; chronic pain #anxiety #depression #pain","sadness",?
+40962,"Migraine hangover all day. Stood up to do dishes and now I'm exhausted again. GAD, depression &amp; chronic pain #anxiety  #pain","sadness",?
+40963,"No sober weekend 🙂🙂🙂","sadness",?
+40964,"One point: DSP claims YTers lost half their viewership in 2012 if they weren't using direct capture. That's when the search changes happened","sadness",?
+40965,"@JessiMcCree Gabriel would eventually start frowning, gaining conciousness. Which was apparently really painful by how tears formed in the--","sadness",?
+40966,"No pessimist ever discovered the secret of the stars,or sailed to an uncharted land,or opened a new doorway for the human spirit.-H.Keller","sadness",?
+40967,"for an lgbt person to tell someone else that how they identify isn't valid is so sad and against everything we should stand for","sadness",?
+40968,"What we think, we become. -Buddha #recovery #addiction #sober #sobriety","sadness",?
+40969,"So drunk me hid my keys very well sober me couldn't find it anywhere","sadness",?
+40970,"@Mets @JdeGrom19 I'm depress now","sadness",?
+40971,"@mandyjohnson I'll be honest.. I hope that annoying Southern bint with the 'look at me' pout goes out this week! Selasi #FTW","sadness",?
+40972,"The last few weeks have been dreadful. opening up of old #wounds. the #gossip of others/evil that spill from thier lips #melancholy #sadnnes","sadness",?
+40973,"@onefumi oh I see. I've seen so many people mourn the loss that I was surprised to see your tweet. I suppose same old here in SA","sadness",?
+40974,"@downseung I'm sorry about your loss... no one should ever give you shit for taking your time to mourn. No matter how long it takes.","sadness",?
+40975,"#HRmanagement must discourage the expediency factor from encroaching on the rolling out of a credible #workplaceviolenceprevention policy.","sadness",?
+40976,"@BeenishParvez salaams ma'am, how r u ma'am? May ALLAH protect u from sadness, illness, harm &amp; nazr-e-bad. AAMEEN. Stay Blessed ma'am.","sadness",?
+40977,"When I walk in darkness of despondency, Sc.verses I've memorized shine a light in my heart. Ex: Lam 3:22-25 #despondency","sadness",?
+40978,"@LdhranOusby @RobHarris inclined to think that 'documentary' did him more harm than good. If not I despair of people's critical faculties.","sadness",?
+40979,"Thank you @Pret 4 giving me a free coffee for bringing my reusable cup to the airport because it was 1st time you saw one. But #depressing","sadness",?
+40980,"Ok it really just sunk in that I'm seeing the 🐐 in a few hours.. wow 🙄🙄","sadness",?
+40981,"I don't care what shape the blues are in. \nWe owe them a fucking hiding. \nLong overdue on that front.","sadness",?
+40982,"it's sad when you talk to someone about ya past n how it fucked you up and then they do the same thing like people really don't have hearts","sadness",?
+40983,"final vestiges of my 90's childhood were just dashed on the shoals of hearing a house cover of Tracy Chapman's 'fast car' at the dayjob","sadness",?
+40984,"@naynay_whores im pretty sure cause ever since saturday ive just been super sad lol","sadness",?
+40985,"I am going to make it my life's mission to discourage anyone from using @CapitalOne. They will rob you blind","sadness",?
+40986,"Luckily I was helped by some good people. And they also managed to free me of my depression. Unfortunately it only lasted a little while.","sadness",?
+40987,"@ashleighjessica @zacflint1 I'd give that pout the firm D","sadness",?
+40988,"Most days, I don't know what my heart beats for. #depression","sadness",?
+40989,"Going off reports on Sky, Stoke played ok tonight. Think i'll stay off the messageboard tonight though -it will be grim on there :/","sadness",?
+40990,"Overwhelming sadness.  This too shall pass.  #lonley #startingover","sadness",?
+40991,"Overwhelming sadness.  This too shall pass. #lost #lonley #startingover","sadness",?
+40992,"@HoggyBear95 the bantz are absolutely top notch, inconsolable I was when I realised","sadness",?
+40993,"I mourn. ha..r / ambe was ruined. what was once an ongoing shitpost about Tony's crimes was hijacked by not so vaguely racist memers","sadness",?
+40994,"So depressing to watch news, today out of 100 bullet news 10 were of rape! What's wrong with people #india #shameless #depressing","sadness",?
+40995,"@MarianKeyes the pout tips me over the edge. I am most definitely AGIN. Who the feic bakes with full make up and boots with heels!!!!","sadness",?
+40996,"I'm wearing yellow today to bring a little sunshine to this gloomy day #yourewelcome","sadness",?
+40997,"I look at some of the average players that play at the min and pine Nani, Rafael , RVP ,","sadness",?
+40998,"Hoping to hear some serious @DonnieTrumpet tonight","sadness",?
+40999,"We're in contained depression. Only new economic engine is #Sustainability, say Joel @makower + @markmykleby @ #VERGEcon. #NewGrandStrategy","sadness",?
+41000,"@ShannonBeador we know the truth about her, the public is figuring it out. Her words mean nothing.  #unhappy #mean #troubled #vile #bully","sadness",?
+41001,"@PriceSjrw5614 @Ren102e906 @slb42jcb @swoozyqyah THEN you do what you can and then BLOCK them, they're trying to discourage us","sadness",?
+41002,"@LeahSKahn honestly. All I care about is Selasi not messing this up. His lackadaisical attitude isn't good for danishes.","sadness",?
+41003,"@BBCTomEnglish @TimesSport And the dreadful Franglaise.","sadness",?
+41004,"Im so unhappy","sadness",?
+41005,"@punjabified porkistan lost terribly in 65 because of american intervation to talk we stopped","sadness",?
+41006,"Are you #serious that #fredsirieix lives in Peckham......South London's own #Love Guru(big up)","sadness",?
+41007,"hate to see y'all frown but I'd rather see him smiling 💕✨","sadness",?
+41008,"@LindaFrum sadly, at least 3 more years of this. At what point will even the low info selfie lovers who voted for them say enough is enough","sadness",?
+41009,"@ChipotleTweets Gabe the worst part is I can't get hot status this month because there's no chipotle near enough to my campus #sadness","sadness",?
+41010,"everything in the dream stayed there","sadness",?
+41011,"Candace &amp; her pout are getting right on my tits #GBBO","sadness",?
+41012,"California sissified pages: ruling class separation in passage to dispirit attestative alphanumeric code: WyrdljPyu","sadness",?
+41013,"so probably hunger and depression and dissociating equals a weird time anything else","sadness",?
+41014,"@reikimuse @MHChat I am beyond the sadness point. Have done it inside out. I live with CPTSD and BPD  I can't always do the pity party","sadness",?
+41015,"This night, room polluted with syringes, notebooks and shadows moving, this kind of night! Away melancholy, away!","sadness",?
+41016,"@reecetop10 Bk to 1 up top pack midfield Stifle any flair we possess kill any entertainers #dull #reshuffle #predictable #slow #average","sadness",?
+41017,"Getting so excited for @ClearwaterJazz 2016!! We play the main stage Sunday Oct. 16 at 3:30!! #jazzholiday #riesbrothers #rock  #jam","sadness",?
+41018,"Getting so excited for @ClearwaterJazz 2016!! We play the main stage Sunday Oct. 16 at 3:30!! #jazzholiday #riesbrothers #rock #blues #jam","sadness",?
+41019,"Really planned on making videos this week. Then. A tv died, phone broke, truck died, #depression took over. I'm wondering what I did 2 karma","sadness",?
+41020,"Removal regardless of cost a lamentable answer: ajvKSK","sadness",?
+41021,"God just replaced my sadness with laughter, can't go the whole day sad ...","sadness",?
+41022,"Need advice on how to get out of this rut!!!!  #needmotivation","sadness",?
+41023,"Need advice on how to get out of this rut!!!! #depressing #needmotivation","sadness",?
+41024,"I feel like I am drowning. #depression #anxiety #falure #worthless","sadness",?
+41025,"@DatGuydARK I wouldn't fret. There's too many opportunities in life to worry about one not working out.","sadness",?
+41026,"Candice's standing pout face aggravates me every week","sadness",?
+41027,"I think learning classical or ancient Japanese might help me get myself permanently out of depression. I sometimes suffer from sudden","sadness",?
+41028,"we never taste happiness in perfection, our most fortunate successes are mixed with sadness. #success #sadness #perfection #fortunate #mixed","sadness",?
+41029,"we never taste happiness in perfection, our most fortunate successes are mixed with sadness. #success  #perfection #fortunate #mixed","sadness",?
+41030,"Anybody know a good place to book a show in #Montreal on short but not super-short notice? #punkrock #postpunk #blues","sadness",?
+41031,"Once you've accepted your flaws, no one can use them against you - @GRRMspeaking #quote #mentalhealth #psychology #depression #anxiety","sadness",?
+41032,"@MessYourself why? Do you have depression?","sadness",?
+41033,"@hamzakhawaja99 just die depression.","sadness",?
+41034,"@othrcarl @IX_SW @purenift I'm sadly not, I'm just being smutty","sadness",?
+41035,"It hasn't sunk in that I'm meeting the twins","sadness",?
+41036,"In other news. My legs hurt. #running #5kin26mins #dreadful #flatfeet","sadness",?
+41037,"“My friend do you fly away now? To a world that abhors you and I? All that awaits you is a somber morrow No matter where the winds may blow”","sadness",?
+41038,"Happy Birthday, LOST! / #lost #dharmainitiative #12years #22september2004 #oceanic815","sadness",?
+41039,"@Mattwinton1 Your foot is frowning.","sadness",?
+41040,"@marisa_enbot Being with you makes me somewhat gloomy.","sadness",?
+41041,"Sigh. I got a B- .. #depressing","sadness",?
+41042,"@CNN : It's not Fox News, it's Fox Propaganda Network, they're so lost in their lies, that they can't tell the truth, if it hit them in face","sadness",?
+41043,"@MHChat Childood experiences can  leave you with permanent deep sadness as adult  it can underlie everything #MHChat","sadness",?
+41044,"Wrinkles should merely hide where frown have been.  - Mark Twain","sadness",?
+41045,"Why can't you just be mine. #forlorn","sadness",?
+41046,"#COINCIDENCE??? When you turn on the TV, etc.&amp; listen &amp; watch, the objective is to #CaptureYourMind with #fear &amp; #depression. #FindGODNow!!!","sadness",?
+41047,"I'm not the type to flee from adversity nor does it discourage me. I'll always stand strong in the paint","sadness",?
+41048,"Cops chillin on pine lakes","sadness",?
+41049,"F'n morons u23 SMFH can't just be lackadaisical","sadness",?
+41050,"Sometimes it takes #sadness to know happiness, #noise to appreciate #silence and absence to value presence.","sadness",?
+41051,"@rosalarian i hate post con blues! But i avoided the plague too yay!! Yay constant hand sanitizer!!!","sadness",?
+41052,"Go follow 'juspopmolly' on snapchat that hoe sitting on the sink right now @Cocaineandtacos","sadness",?
+41053,"The new @chaseandstatus song is mega 💥 reminds me of @SundownUK #blues","sadness",?
+41054,"#AutumnalEquinox the nights are drawing in, what a great time to look at putting up some new #lights #dark #showroom #news #wirral","sadness",?
+41055,"The weather changed from sunny and bright to gloomy just in time to match my afternoon mood. 😒","sadness",?
+41056,"@p0stcap I've still been trying to sort through it all, but I suppose I also shouldn't have had such high expectations. #sadness","sadness",?
+41057,"How do you help someone with #depression who doesn't believe they have it and doesn't trust therapists?","sadness",?
+41058,"A pretty dejected FanCam on the way. #SCFC #TBPTV","sadness",?
+41059,"Ffs clan... seriously never been so disheartened","sadness",?
+41060,"Fam what seems more fun for a photo booth: being able to instantly post to Twitter or having to wait till sober to see the hot mess","sadness",?
+41061,"ACT 4 #anxiety &amp; #depression group. @livingwellihc beginning Mon October 17 for 6 weeks. Contact me to register now! #mindfulness #Halifax","sadness",?
+41062,"Rooney = whipping boy. #mufc #sad","sadness",?
+41063,"Rooney = whipping boy. #mufc ","sadness",?
+41064,"Nothing else could possibly put a damper on my day other than doing X-rays on someone with kickinnnnn ass breath 😿","sadness",?
+41065,"My cell won't hold a charge 😢 #sadness So should I...","sadness",?
+41066,"Do you know how much it hurts to see you best friend sad?","sadness",?
+41067,"I am often disturbed by what some people find appropriate or acceptable. It's not funny nor cute that adults find this stuff humorous. #sad","sadness",?
+41068,"I am often disturbed by what some people find appropriate or acceptable. It's not funny nor cute that adults find this stuff humorous. ","sadness",?
+41069,"ok yes I get it as much as the next guy -- bikes blues &amp; bbq is frustrating &amp; loud!!! but these ppl are traveling from all over to come --","sadness",?
+41070,"The @Orioles are in contention and hosting @RedSox nation and Camden is empty #sad","sadness",?
+41071,"The @Orioles are in contention and hosting @RedSox nation and Camden is empty ","sadness",?
+41072,"The two Brians, @BlackEyedNBlues &amp; @onthehorn500, also known as the Nigella Lawsons of #blues &amp; #pizza.","sadness",?
+41073,"Ive felt surprisingly gloomy about my bad scouts today :'D but i recognize that it's all just RNG and yeah I didnt spend that many gems","sadness",?
+41074,"@loueezecee I don't know how much more of that bloody pout I can take!!","sadness",?
+41075,"I hope a goal comes soon on either side. Otherwise there is a serious threat of a dull and frustrating game. #COYS","sadness",?
+41076,"@John_Hanna he has become so dreary, also, yes...","sadness",?
+41077,"Usually I'm not one to rush colder weather but this year I'm so ready for hot coffee, dark lippies, scarves, sweaters, &amp; boots 🍂👢☕️💄","sadness",?
+41078,"Today you visited me in my dreams and even though you aren't physically gone I still mourn you","sadness",?
+41079,"I wonder if the #wolfcreek TV show is sponsored by the anti-tourist board of Australia to discourage visitors? #stayathome #dontvisit","sadness",?
+41080,"@Theresa_Talbot @fleurrbie Haha...sorry about the dreadful puns... I need to get out more....I've been cooped up lately...","sadness",?
+41081,"A MOMENT:\nIf you kill it in the spirit, it will die in the natural!!!'-@PRINCESSTAYE  #murder #suicide #depression #racism #pride","sadness",?
+41082,"A MOMENT:\nIf you kill it in the spirit, it will die in the natural!!!'-@PRINCESSTAYE #murder #suicide  #racism #pride","sadness",?
+41083,"I know few will mourn the loss of Stitch's Great Escape, but...see, THIS is the kind of cost-cutting at parks I really don't care for.","sadness",?
+41084,"Who need #beats ? #instrumentals #serious #artists #only 🚨","sadness",?
+41085,"Don King...his actions really sadden me today...the word 'may not' have the same power to all as it once did, I still cringe when i hear it","sadness",?
+41086,"Meghan is teaching the blues in keyboard fundamentals II and all these classical majors are like WTF?!","sadness",?
+41087,"Being at the airport is so depressing.. watching all the loved up couples and cute people coming off holiday,too cute..hurry up November ✈️","sadness",?
+41088,"@FoxNews Very thought provoking &amp; leads one to question what really happened.Very sad for all.","sadness",?
+41089,"Listening to @wdwradio at work is my slice of sunshine in this dreary cube world #9to5life","sadness",?
+41090,"Don't get too close it's dark inside 🌫🌊","sadness",?
+41091,"The bowl on my new food processor broke, @Cuisinart. #sadness.","sadness",?
+41092,"Feeling #gloomy","sadness",?
+41093,"Today: Kudos to Jaime Garcia on a fine outing.     #encouraging. Last Week: Judo to Jaime Garcia for a dismal outing. #discouraging","sadness",?
+41094,"me: tis a dreary day today\nfriend: he's a teenager not Shakespeare's reincarnation \n\nim such a dumbass lol","sadness",?
+41095,"@JBoughton93 he might donate the money but it won't stop shit, pessimist","sadness",?
+41096,"@nytimes media celebrated Don King endorsing #Obama in 08 and 12 now criticize him for endorsing #Trump who wants new Civil Rights era- sad","sadness",?
+41097,"@broadly you should be criminalized for posting a pic of that brown frown.... Get a pic of some jack, or cookies, or diesel, Join up @CNN_Ai","sadness",?
+41098,"@WDWNT #spooky night at #disney #fortwilderness campground #disneyworld #powerfailure #dark","sadness",?
+41099,"@ChristianJMay @CityAM \nConfidence held up... despite constant and continual doom and gloom","sadness",?
+41100,"I might even be on the verge of depression.","sadness",?
+41101,"@TheSGJournal Step 1: Get rid of @LittleStokePark Step 2: Prioritise football Step 3: profit? #depressing","sadness",?
+41102,"When you lose somebody close to your heart you lose yourself as well 💔 #lost","sadness",?
+41103,"When you lose somebody close to your heart you lose yourself as well 💔 ","sadness",?
+41104,"@BlackToLive Good - cuz that's what Trump is: a fucken 'N'azi. Don King-u havnt sunk this low since u set up Mike Tyson. 2 pathetic Dons.","sadness",?
+41105,"@jamiesonhelen @MarianKeyes all three of my agin's on the pout .","sadness",?
+41106,"But what will complaining, pessimism, regret, and anger get you?","sadness",?
+41107,"Been sober for days lmao","sadness",?
+41108,"i am le depressed i l hate myself xDDdD #sad #depress #loner #emo","sadness",?
+41109,"I want my highlight to be so bright that if I ever get lost and someone is looking for me in the dark, they'll find me.","sadness",?
+41110,"ffs as if tate thought wind in the willows was a serious play, can't wait to see him play a singing badger 😩😂","sadness",?
+41111,"this country is going to go to crap no matter who wins this november, isnt it? The more i learn of both the more despondent i am of future","sadness",?
+41112,"@HonestAndFrank but  @BillCosby drugged and raped those women. At least you and Barb were sober and consenting!!","sadness",?
+41113,"whenever I hear concert postponed I think of dismal ticket sales   green day ?","sadness",?
+41114,"David Gilmour's biggest compliment? B.B. King asked him after a gig if he was born in Mississippi #pinkfloyd #theblues #davidgilmour #blues","sadness",?
+41115,"@OpentheDoorRadi thanks for playing Crock Pot Going #radio #blog #blues #music #indiemusic","sadness",?
+41116,"No #gbbo from us tonight sadly, we've got a date with some nachos @ODEONCinemas #BridgetJonesBaby","sadness",?
+41117,"This has been the most depressing week full of rain ever lol","sadness",?
+41118,"gotta say this n put it out there. whoever u r, u should support other people's decisions n not discourage them...","sadness",?
+41119,"@BigBossPeltonen \nLikewise #death #cutting #despair","sadness",?
+41120,"My producer is mixing and mastering the songs now for #murky #notebook #mixtape\nThe tape will be out soon for free download 🔥🎶💨💯","sadness",?
+41121,"I don't get that my parents literally don't see how unhappy I been lately","sadness",?
+41122,"#recession, #economic #gloom? The brightest #stars shine in the darkest nights! Our #html5 #webdesign rocks! #rtblitz #finovate #wlsb","sadness",?
+41123,"I feel like no one is out there on #Twitter  for me.... can anyone see what I write #sadness #rants","sadness",?
+41124,"I can't pull myself out of depression","sadness",?
+41125,"@andrewmcmeme nah, I asked really insightful teacherly questions so he could write a kickass report of his own. He will, sadly, never know","sadness",?
+41126,"sav tells our mom 'I love you' and she responds 'Oh.' #sad","sadness",?
+41127,"sav tells our mom 'I love you' and she responds 'Oh.' ","sadness",?
+41128,"Dying is a very dull, dreary affair. And my advice to you is to have nothing whatever to do with it. ― W. Somerset Maughm","sadness",?
+41129,"I wish I could live in y'all reality where i can grieve over people i never met. To bad i got BROTHERS dying left and right .","sadness",?
+41130,"And btw... I really did stay in bed all day today. #depression I hate being lied to, fuck liars. -w-","sadness",?
+41131,"@DevilsAdvcate @ManUtd absolutely boring.M a big Manchester United fan,  nd its really disappointing to see them play in ths dull boring way","sadness",?
+41132,"Lauren Jauregui makes all my problem dissapear it amazes my sadness. She keeps me strong","sadness",?
+41133,"I get embarrassed at the slightest things and then I'll fret about it all day I hate it","sadness",?
+41134,"How a dad would feel knowing his daughter is getting dashed around for whines in the rave😭","sadness",?
+41135,"tim burton never fails to depress me","sadness",?
+41136,"@BenLeubsdorf @DykstraDame @WSJ idiots are going to sink the economy with free money policies.","sadness",?
+41137,"@Jake_Martin74 Oh and I play it capo 2nd fret in a G position RS","sadness",?
+41138,"I'm allowed to sulk","sadness",?
+41139,"my bls depress the blake","sadness",?
+41140,"Playing at September 21, 2016 at 09:30PM: Demetria Taylor  #blues","sadness",?
+41141,"@faye_catherine happy anger sad melancholy confusion #woodspurge","sadness",?
+41142,"FYI y'all can't mourn or celebrate shawty lo cause y'all ain't played his music since 08'","sadness",?
+41143,"@MHChat if we don't understand how to express our emotions to others, may lead to sadness / loneliness &amp; neg impact on long term mh #MHChat","sadness",?
+41144,"@devrajasmine If you change the dark images both look different, but both look like they are in a forest.","sadness",?
+41145,"@bldmovs sadly beautiful photo.","sadness",?
+41146,"ima kitchen sink","sadness",?
+41147,"I should have stayed at home.","sadness",?
+41148,"Henderson showing that when times are hard he leaves or goes missing #AFLCatsSwans #seenitbefore #lions #blues","sadness",?
+41149,"My son 11 has 128 friends on Facebook and yet is moping around the house complaining he has no one to talk to. I'm right here son","sadness",?
+41150,"Don't get #weary in well doing.\n#Faith #God #prayer","sadness",?
+41151,"We fear not the truth, even if it be gloomy, but its counterfeit.- Berl Katznelson","sadness",?
+41152,"God I give you all my pain mess and stress. Take my heavy load. #amen #stress #mess #pain #depression #sadness","sadness",?
+41153,"All I'm learning about at college atm is Sylvia Plath, Stalin's purges and natural disasters, gloomy af","sadness",?
+41154,"Did you know apples turn brown when a enzyme called polyphenol oxidase reacts with oxygen! Well I do #dull #applefacts 🤓🍏","sadness",?
+41155,"@wiIdfuI we have the same age and you're 1000 times more beautiful than me! #sad 😂","sadness",?
+41156,"hmm somehow twitter feels really depressing, more like negative today...I think I missed something 😕","sadness",?
+41157,"@Cassena13 I know if I wasn't an optimist I would despair.","sadness",?
+41158,"I came to work for no reason 😩🔫\nI could've stayed in bed","sadness",?
+41159,"Not written for African-American\n\nNo refuge could save the hireling and slave\nFrom the terror of flight or the gloom of the grave,","sadness",?
+41160,"@damiandmusic hubby Noah shares this somber thoughtful photo of his one and only Dami. Ponytail, standout highlights beautiful picture, nice","sadness",?
+41161,"So you're unhappy?","sadness",?
+41162,"or when someone tells me I needa smile like excuse me ??? now I'm just frowning even harder are you happy","sadness",?
+41163,"I want to pour all my tears on someone right now. So tired of this #upset #sad","sadness",?
+41164,"I want to pour all my tears on someone right now. So tired of this #upset ","sadness",?
+41165,"@OniLink86 @DarekMeridian lmao awe...  #sad","sadness",?
+41166,"@OniLink86 @DarekMeridian lmao awe... ","sadness",?
+41167,"@reillygolfpro @RealKidPoker @StacyAcey @WSOPTD no he didn't! They are obviously friends and that clouded his judgement","sadness",?
+41168,"Where are some great places to listen to blues? #nightlife #NightLifeENT #blues #jazz #gatewayarch #stlouis #washingtonave","sadness",?
+41169,"@dlrwills turn that frown upside down buddy 🙃.","sadness",?
+41170,"@patienceinbee @camposanto But I decided to be a bit lackadaisical about getting dressed to get groceries.","sadness",?
+41171,"@pikapies I have many happy memories of the Isle Of Wight.\n...\nBut yeah, sink that shit.","sadness",?
+41172,"@glenberube @DonnaGrantis @idanielsenbass @HannahJWelton watching this again makes me weep tears of joy and tears of sadness that he's gone","sadness",?
+41173,"carry on my wayward son there'll be peace when you are done lay your weary head to rest don't you cry no more","sadness",?
+41174,"@yourKarma Reaching out AGAIN in hope to contact over the technical issues I am having. Your CS is severely lacking. #badkarma #unhappy","sadness",?
+41175,"I love when #girls are busy in teaching how to #pout while taking #selfie in a mall , their desication is immense #women love #perfection","sadness",?
+41176,"@PatBlanchfield so you mean “like Uber but for despair for someone other than the driver'","sadness",?
+41177,"@tysonwaters and @WatersWife 'Being over it.' Why USA has #panicattacks #anxiety #depression and so much medication!","sadness",?
+41178,"@typicalmoony Yes Lia!! Join the dark side!!","sadness",?
+41179,"@phil500 \nSo sadden \nSpunky a beautiful dog\nA sad story a lovely happy\nAn loved dog \nPlay little one have fun you\nare so loved","sadness",?
+41180,"(whisper) I cannot frown.","sadness",?
+41181,"@ananavarro @tcarrels most of Trump supporters have not clue about the meaning of the words they used just like him #sad #nevertrump","sadness",?
+41182,"@ananavarro @tcarrels most of Trump supporters have not clue about the meaning of the words they used just like him  #nevertrump","sadness",?
+41183,"@RobertWesley3 I'm #mad that my brother is #sad ! Feel better bub!","sadness",?
+41184,"Dentist just said to me' I'm going to numb your front lip up so it'll feel as if you've got lips like Pete Burns!...... She was right #pout","sadness",?
+41185,"@haileywiggins_ @flenner_alisha good. Takes more muscles to frown than smile","sadness",?
+41186,"A pessimist sees the difficulty in every opportunity, an optimist sees the opportunity in every difficulty' -Sir Winston Churchill-","sadness",?
+41187,"The most depressing part of being ill is that your taste goes 😫","sadness",?
+41188,"Penny dreadful 3 temporada","sadness",?
+41189,"@ProSyndicate thanks for replying, I'm ironing my shirt😂 I'd love to meet you and get an autograph but sadly I'm too young to travel.","sadness",?
+41190,"Shantosh: How crazy would it be to walk past and talk to a person everyday never realizing he is suffering from depression or such? …","sadness",?
+41191,"Is it just me or is this a very weird time for the world? #change #enlightenment #gloomy #weird #sigh #imaginepeace #imaginelove #unite","sadness",?
+41192,"@jamiesmart Huh! It's always my fault isn't it &gt;:( #huff #sulk","sadness",?
+41193,"Pussies - In the dark, they're all the same","sadness",?
+41194,"For once I gatherp th strength to not try and drink my pain away. #sober #Fighter #strong #lovely #dreamer","sadness",?
+41195,"@dublinwaltz bts' 화양연화 trilogy MV is my all time fav🙌 quite gloomy but beautiful as well✨","sadness",?
+41196,"The ghost of Stefano reflects on the grim indignity of being murdered by corrupt cops in faux love. #days","sadness",?
+41197,"@againstallaudss @groovydadad @Thelostchild5 @MHChat indeed &amp; is sadness unavoidable? #MHChat","sadness",?
+41198,"Bojack Horseman: the saddest show ever written?? #depression #season1","sadness",?
+41199,"Incredibly shocked and disappointed with @united customer service. Really making me rethink flying with them in the future. #unhappy","sadness",?
+41200,"Too many are on their 'yeah, the thing going on with cops shooting innocent people is sad - but just not in my backyard, so..' #sad #blm","sadness",?
+41201,"Too many are on their 'yeah, the thing going on with cops shooting innocent people is sad - but just not in my backyard, so..'  #blm","sadness",?
+41202,"My encouragement today is my dog while my head is in a fog. #epicfail #depression #feelingfedup #tired #ihaveheardeverything #wondering","sadness",?
+41203,"My encouragement today is my dog while my head is in a fog. #epicfail  #feelingfedup #tired #ihaveheardeverything #wondering","sadness",?
+41204,"Drinkin me some red wine &amp; listening to some fred mcdowell playing the #blues . He did not play no #rocknroll. Fantastic noise  #justsaying","sadness",?
+41205,"Love being made to feel bad about being scared of the dark","sadness",?
+41206,"Is this the Krusty Krab?\n\nNo this is crippling depression","sadness",?
+41207,"Has September been dull? Get #SuperSeptember from Jumia Food as a new user. Order from The Place, Barcelos or Shawarma &amp; Co for 30% off","sadness",?
+41208,"@POCX100 Please don't sulk over your defeat. Come on. Head up!","sadness",?
+41209,"me: i've actually been doing pretty well! i'm learning to manage my depression and-\nlife: yeah that's over. that's cancelled.","sadness",?
+41210,"@MariamVeiszadeh #depressing it's so freaking close !","sadness",?
+41211,"Trial result #sadness","sadness",?
+41212,"I am more comfortable here at the Dove House than I was in my own home for 24 years. This is HOME &amp; I am very grateful. #dove #indy #sober","sadness",?
+41213,"Only God knows why things happen, sometimes it's just hard to understand. #sad #prayingforyou","sadness",?
+41214,"Only God knows why things happen, sometimes it's just hard to understand.  #prayingforyou","sadness",?
+41215,"Just because I'm hurting \nDoesn't mean I'm hurt \nDoesn't mean I didn't get \nWhat I deserved \nNo better and no worse #lost  @coldplay","sadness",?
+41216,"Fashion week this year is dull AF! Someone inspire me!!!!!! 😩","sadness",?
+41217,"Take heart amid the deepening gloom that your dog is finally getting enough cheese. ― National Lampoon, 'Deteriorada'","sadness",?
+41218,"It's always over.. until I'm no longer sober... then it feels like I wana start over #UL","sadness",?
+41219,"its so unfortunate that after all these years im still struggling with depression smh","sadness",?
+41220,"Ghanaians don't need to wear black to mourn tho... They can just walk naked *dodges stones* Na joke na☹'","sadness",?
+41221,"@RonBaker6694 I got a super speeder and lost my license for 6 months! 😩🔫","sadness",?
+41222,"@ScottCarmichae1 @Murican_Stuff don't fret -- this guy is mad because when @realDonaldTrump  is elected he might have to get a real job","sadness",?
+41223,"@KhaleesiofFood @BB_Updates she has stayed off the block almost all season, got out people that were good for her game, but no one seemed","sadness",?
+41224,"@gurrie_j thanks for making me super sad about Pizza.  #freepizza","sadness",?
+41225,"@gurrie_j thanks for making me super sad about Pizza. #sad #freepizza","sadness",?
+41226,"Inadequacy slithers from her ears and wraps itself around her neck like the boys she wants to love her. #mpy #vss #quote #depression #poetry","sadness",?
+41227,"&amp; like if your unhappy just leave. don't cheat on someone &amp; than up their view on love &amp; shit 💯..","sadness",?
+41228,"@teenageic0n_ you'll be pleased to know my family are blues","sadness",?
+41229,"@Meruna_  as a musician, I can tell you that more people get discouraged when learning because of shitty instruments than anything else.","sadness",?
+41230,"Hi guys! I now do lessons via Skype! Contact me for more info. #skype #lesson #basslessons #teacher #free lesson #music #groove #rock #blues","sadness",?
+41231,"Rockin to  Bob Dylan singin'  Bob Dylan's 115th Dream on LPCO Klassic Rock #classicrock #klassicrock #rocknroll #blues #onlineradio","sadness",?
+41232,"feel really sad and down today😒","sadness",?
+41233,"But right now I'm feeling pretty desolate.","sadness",?
+41234,"#Drunk people annoy me when I'm #sober lol. | #fact #TeamFollowBack #RockTheReTweet","sadness",?
+41235,"@_JESSICAVIDAL_ Just pour it down the sink and let him drink you.","sadness",?
+41236,"@Dark_Intell Darius' article was what convinced me that the time and money I had sunk into the IGDA in past years was wasted. Good re-read.","sadness",?
+41237,"i really want to read this fic i found but it's #serious and this room is full of #memes","sadness",?
+41238,"UPLIFT: If you're still discouraged it means you're listening to the wrong voices &amp; looking to the wrong source. Look to the LORD!","sadness",?
+41239,"I'm strong 'cause I'm weak\nI'm beautiful 'cause I know my flaws\nI'm fearless 'cause I've been afraid\nI can laugh 'cause I've known sadness..","sadness",?
+41240,"This is the @Fender #blues #junior. I'm looking forward to play on it as soon as possible. #guitar #guitarrist #music","sadness",?
+41241,"Dreams dashed and divided like million stars in the night sky.","sadness",?
+41242,"You are NOT your struggle or You are NOT your affliction! #YouAreStrong &amp; #YouAreArising above it all!","sadness",?
+41243,"Fun tidbit: You can fall asleep on someone while dancing. #blues #latenight","sadness",?
+41244,"The #sober equivalent of being in a #bar women's restroom is the #salon. Everyone compliments each other &amp; become friends. I love it","sadness",?
+41245,"I lost my wallet, then found it, then lost it again AND THEN FOUND IT!!!!! \nCollege is brazy","sadness",?
+41246,"@hedgegirl I was only joking. I don't have any parents. 😈 #dark","sadness",?
+41247,"oh, btw - after a 6 month depression-free time I got a relapse now... superb #depression","sadness",?
+41248,"oh, btw - after a 6 month depression-free time I got a relapse now... superb ","sadness",?
+41249,"Absolutely hate the Apple Watch iOS 10 update. Completely buggered some of my apps, including Spark. Awful interface, too. #grim","sadness",?
+41250,"The animals, the animals\nTrap trap trap till the cage is full\nThe cage is full, stay awake\nIn the dark, count mistakes","sadness",?
+41251,"Love is when all your happiness and all your sadness and all your feelings are dependent on another person.","sadness",?
+41252,"@antoboyle I so wish you could someday come to Spain with the play, I can't believe I'm not going to see it #sad","sadness",?
+41253,"@antoboyle I so wish you could someday come to Spain with the play, I can't believe I'm not going to see it ","sadness",?
+41254,"Always borrow money from a pessimist; he doesn't expect to be paid back.","sadness",?
+41255,"But guess what ? I'm sober","sadness",?
+41256,"@MissFushiGaming I hashtag things and the kids always tell me to stop 😭😭😭😭😭 #sadness","sadness",?
+41257,"@WalshFreedom sadly, that idiot completely overlooks the facts . He had a gun pointed at police. Are they that stupid?That should be ignored","sadness",?
+41258,"@localblactivist I'm always a little bit weary of speaking up because 1. I don't want to hijack the convo - as an LGBT person, I've seen","sadness",?
+41259,"Go away please ... I'm begging »»» #depression #anxiety #worry #fear #sadness \nDreams of joy and my baby to be found...Sits on #AndisBench","sadness",?
+41260,"This nigga doesn't even look for his real family 🙄😂 #sad","sadness",?
+41261,"This nigga doesn't even look for his real family 🙄😂 ","sadness",?
+41262,"So blend the waters lie\nThere shrines and free-  The melancholy waters lie\nNo rays from out the dull tide-  As if the vine","sadness",?
+41263,"God knows why you'd wanna go with a girl who's slept with half ya mates #grim","sadness",?
+41264,"People are trying too hard to hate on Cam Newton without understanding his position #sad","sadness",?
+41265,"People are trying too hard to hate on Cam Newton without understanding his position ","sadness",?
+41266,"@cristinalaila1 just when I thought this disgusting man couldn't sink any lower-like Hillary he his depravity of character has no bottom","sadness",?
+41267,"@SizweM01 and it's kinda depressing hey!!! 😑","sadness",?
+41268,"@KseniaSolo hi little late to lost girl but think you awesome from South Afrikaans:-)","sadness",?
+41269,"@MiSSLiNDZO no. 😭 the last two we were out-bidded. So we got kinda discouraged so now we are taking our sweet time. The market is stupid tho","sadness",?
+41270,"Way to get a hold of her 😊 #depressing","sadness",?
+41271,"TVGirl is like I'm really pretty and melancholic about life and this is why I hate myself","sadness",?
+41272,"Actually I always idealize the end of my relationships .. Such a pessimist","sadness",?
+41273,"After she threw me out I had to sedate her. With a damn horse tranquilizer.'","sadness",?
+41274,"Man city's kit is dreadful!","sadness",?
+41275,"There will be no #gaming video today. An old friend of mine passed last night, so I'm taking some time to grieve. Thank you #StandUpToCancer","sadness",?
+41276,"I did the dishes yesterday, fell asleep, woke up to the sink full and I didn't even eat dinner but I have to do the dishes.","sadness",?
+41277,"even if it looks like we are okay,  the reality of that is were actually very worn out and forlorn","sadness",?
+41278,"Interesting topic this evening...  sadness &amp; low mood. #MHChat","sadness",?
+41279,"someone explain female human beings to me, they're depressing me ._.","sadness",?
+41280,"Dont dull #Dutty_Wednesday","sadness",?
+41281,"@brawl2099 See your primary care doctor. They can prescribe meds and refer you to a psychiatrist for eval. Don't mess with depression.","sadness",?
+41282,"@kagehime3 I'm so starved for content I'd take it but I'd def pout about it (՟ິͫઘ ՟ິͫ)","sadness",?
+41283,"@ChrisWarcraft species cf. Don Jr. refugees/Skittles.know he likes his snacks,but even @gop frown on talking about eating humans #lizardscum","sadness",?
+41284,"Trying to make a #better_world is #depressing when it's a #failure -__-","sadness",?
+41285,"Lines from Don't Quit take me to a place of ultimate strength when I start to feel weary. 💪🏾","sadness",?
+41286,"That's the old me though #imachildofgod #whatistwerking #sober #married #bye","sadness",?
+41287,"@mcjamie sadly. It's just.. Did the dude have to yell out the frogs name at the Clinton rally that one day. It changed everything","sadness",?
+41288,"Is that hurting..? [Features get a tad somber while attempting to sense @MischievousTyke's temperature]","sadness",?
+41289,"doese reading help depression or is it another form of escapism","sadness",?
+41290,"#Gratitude - recovery health love God conscious drive hope perseverance wealthy home kids SoCal #recoveryfit youthful #sober","sadness",?
+41291,"Idk why people be glorifying depression. I wouldn't wish real depression upon my worst enemy. Shits the worst stop acting like it's cool","sadness",?
+41292,"Maybe I can sleep with my chem book on my head and it will all sink in my brain","sadness",?
+41293,"i cant live anymore my roblox got termianted :(((((((((((((((((((((((( #sad #killme #lol #robloxgamer","sadness",?
+41294,"i cant live anymore my roblox got termianted :((((((((((((((((((((((((  #killme #lol #robloxgamer","sadness",?
+41295,"Come here, let me do whatever I do with it. #dismal","sadness",?
+41296,"When it comes to Syria, I get very fucking annoyed at pessimism, like I get full on triggered. Optimism or gtfo.","sadness",?
+41297,"Heading home to cut grass in the heat. All I wanna do is go out to eat somewhere air conditioned.  #AdultingIsTheWorst","sadness",?
+41298,"Heading home to cut grass in the heat. All I wanna do is go out to eat somewhere air conditioned. #pout #AdultingIsTheWorst","sadness",?
+41299,"@ManUnitedWriter He has had a dreadful first half, not to mention rashford would've got on the end of a couple of those through balls #pace","sadness",?
+41300,"Heart heavy for lost furry family members. Remembering Max and Ozzie. Forever friends as 🐶😇","sadness",?
+41301,"Awake at 5.30am with a seriously bad throat 😩😩😩😩😷🤒 glands feel huuuuuuuge and I'm in uni soon! #grim","sadness",?
+41302,"@lefluerr Lol yeah I read that but I stayed up and didn't nap tillI collect 3 people who I think they've got me 😂😂!!","sadness",?
+41303,"Thanks to all the #sober drivers. The real winners of the night! #ClemvsGT","sadness",?
+41304,"But God will deliver the righteous to their place of salvation: no evil shall touch them، nor shall they grieve","sadness",?
+41305,"#2 complained then while his head and then called do not despair of God's mercy if you did sins go back to him and ask his forgiveness","sadness",?
+41306,"gloomy days should just be for high cuddles and movies","sadness",?
+41307,"#Quote 'To say that You know Yourself without ever having been #lost to find Yourself, Is like saying You know everything' ~@Caligraphy215","sadness",?
+41308,"why yall hyped abt that girl getting to hang out w JB, he clearly looks so unhappy and bored in the pics no offense LOL, plus he hates yall","sadness",?
+41309,"Well stomach cramps did not make that spin class any easier. Why does my body hate digesting porridge so much 😩 #spinning #sulk","sadness",?
+41310,"Special thanks to @hamsterwatch &amp; @UgotBronx for keeping us updated &amp; entertained this dismal BB season 💕","sadness",?
+41311,"♪OLD FISH  #discourage","sadness",?
+41312,"Muscled man with huge heart is messing with my brain and heart. #lost #confused","sadness",?
+41313,"@chrislhayes It's hard for most folks to realize how deep the hatred is until you dive into the murky end of the pool. This guy is nuts.","sadness",?
+41314,"The snaps/Insta pics I see of the friends I made while in Cali are so unbelievably depressing cause there's no place I'd rather be but there","sadness",?
+41315,"@tariqmateen but sadly he missed some crucial and important points. Indian terrorism in pk,  kal Boshan,  etc..  Raw involvement","sadness",?
+41316,"Remember your journey is unique! Don't get discouraged because you're comparing your journey to someone else's. You will get there!","sadness",?
+41317,"Sejejs says Cibulskis missed time in 3rd period due to an injury. Wouldn't comment on how serious it is. Apparently not a doctor.","sadness",?
+41318,"Biggest joke in life? Kardashian and Jenner stans. Their lives are so dull, parents must be so proud.","sadness",?
+41319,"@NikhilTikare i like cold gloomy weather","sadness",?
+41320,"Cuddling literally kills depression, relieves anxiety, and strengthens the immune system.","sadness",?
+41321,"#Taurus, for the most part, you have perfect control over your Emotions and you are careful not to be so sulky around anyone!","sadness",?
+41322,"What I would give\nTo feel the sunlight on my face\nWhat I would give\nTo be lost in your embrace 🎧\n\n#Fallen","sadness",?
+41323,"Honestly don't know why I'm so unhappy most of the time. I just want it all to stop :(   #itnevergoes","sadness",?
+41324,"Honestly don't know why I'm so unhappy most of the time. I just want it all to stop :( #unhappy #depression #itnevergoes","sadness",?
+41325,"@Skepta make sure you's Young breadrins sling us a quick vote #murky #skeng #votage","sadness",?
+41326,"@NicKeaney Hope they refuse :( x #depressing","sadness",?
+41327,"@Conorojo Loool understand the pessimism but it will 😂","sadness",?
+41328,"@nickb88 @Buster_ESPN pine rider","sadness",?
+41329,"This took a melancholy turn but my point is that for all the difficulties I'm still happy. Happy that I get to be who I am.","sadness",?
+41330,"@MCHorseFayse @bockaguyjim @generalgoodsman @nevernotdavid so you were owned by losers on Twitter #sad","sadness",?
+41331,"@MCHorseFayse @bockaguyjim @generalgoodsman @nevernotdavid so you were owned by losers on Twitter ","sadness",?
+41332,"@strong_bread dude we same fukc i lost my spectacles this morning.......","sadness",?
+41333,"#savemoney and #savelifes @ your #openbar @your #weddingreception. Close it 1-2 hours early, forcing your guests to sober up before driving.","sadness",?
+41334,"@tonygoldmark Yeah I won't mourn it but I'm glad I rode it the last time I visited.","sadness",?
+41335,"@diamonde my heart just sunk.","sadness",?
+41336,"I feel like singing the song human sadness by Julian Cassablancas and The Voidz or some other sad music. #depression #sad #sadness","sadness",?
+41337,"SRV's 'Voodoo Child' is approximately 76 times better than Jimi's. #guitar #music #blues","sadness",?
+41338,"@grumpy_pumper I involuntarily smile when you frown in photos. And giggle. How annoying!!","sadness",?
+41339,"@Tanzynia sadly David D is no longer with us imagine both together wow","sadness",?
+41340,"Haven't been here a while, been watching lots of TV. Conclusion #whataloadoftat...if I wasn't depressed before afternoon TV is #grim","sadness",?
+41341,"Haven't been here a while, been watching lots of TV. Conclusion #whataloadoftat...if I wasn't depressed before afternoon TV is ","sadness",?
+41342,"@Mysteri759 @Ren102e906 @slb42jcb @swoozyqyah Well, I'm too old, and too stubborn about facts &amp; history to be discouraged.","sadness",?
+41343,"Says to my maw the other day, wanna day sober October way me, she says 'ave mer chance of doing movember son' #classicmoira #glasgow #sober","sadness",?
+41344,"it's pretty depressing when u hit pan on ur favourite highlighter","sadness",?
+41345,"ah #lost #mah #train of thunk.","sadness",?
+41346,"@Adrian_Specs Far from safe and staid I found it horribly OTT at times while everyone seemed to be trying just a little too hard. Not for me","sadness",?
+41347,"@Megane_Matt @HikariMorou next to despair, hope shines even brighter (you get me Matt)","sadness",?
+41348,"🍂🎵☀\n#fall sounds great !\ndream #blues #rock by @RaphaelSlagg.\nGet the top album  'One Love'  by hero @BlindFret. :D","sadness",?
+41349,"I'd pay good money to watch someone slap that pout off Candice.","sadness",?
+41350,"#PeopleLikeMeBecause they see the happy exterior, not the hopelessness I sometimes feel inside. #depression #anxiety #anxietyprobz","sadness",?
+41351,"#PeopleLikeMeBecause they see the happy exterior, not the hopelessness I sometimes feel inside.  #anxiety #anxietyprobz","sadness",?
+41352,"@todofuku dreadful day at work n now im gonna be late for class n im covered in paint, n now i have to work a night shift too :/","sadness",?
+41353,"Nobody wants a grouch but DONT move to SD if you want to be a rapper. #serious","sadness",?
+41354,"@mypalalex but still your my favorite person in DF besides grim","sadness",?
+41355,"@icapturpix @DRUDGE_REPORT I agree. This current, ultra-left Democratic party lost a lot of members, including myself. I switched to Repub.","sadness",?
+41356,"Although this is my best semester so far, this is also my most depressing because I'm constantly reminded that I'm not meant for greatness","sadness",?
+41357,"Synth backing tracks = sadness\n#depresspop #dark #+++ #alt #fuckingmeup","sadness",?
+41358,"will brawndo cure my depression? @MikeJudge #Idiocracytoday","sadness",?
+41359,"If you love something, let it go. If it comes back, it is yours. If it doesn't, it never will. #sadness #accepting","sadness",?
+41360,"because a kitchen sink to you is not a kitchen sink to me, okay friend?","sadness",?
+41361,"@kerophibian depressing","sadness",?
+41362,"@almurray hit the sink with a hammer... sorry, the universal modifier!","sadness",?
+41363,"I feel like an appendix. I don't have a purpose. #sad #depressed #depression #alone #lonely #broken #sadness #cry #hurt #crying #life","sadness",?
+41364,"But is it your fault you worked hard and stayed the course until eventually it all paid off, no! so let it be known and count up!","sadness",?
+41365,"I feel like a burden every day that I waste but I don't know how to get out of this bc I get so discouraged all I wanna do is lay around 🙃","sadness",?
+41366,"@RIPPoohSavage u know ion play that shit bout my weary brother","sadness",?
+41367,"I saw someone discourage someone from following their dreams. Just because you want to live in mediocrity doesn't mean someone else should.","sadness",?
+41368,"You forever straight so fix that frown u good😇 @amayyaaag__","sadness",?
+41369,"@d6vey you are grim mate","sadness",?
+41370,"@PunishedSnek in the final analysis, the non-white global majority will not fret over the ethnic origin of our corpses.","sadness",?
+41371,"the sad moment when u hand in an exam knowing u failed and grieve by eating and sleeping","sadness",?
+41372,"I can't even celebrate my wins or mourn my L's cause first test week is that busy 😕","sadness",?
+41373,"Grim and despair feeling-I look at self and my family. Hubby fought 20+ years for this country. I've worked 20+ years for this govt--&gt;","sadness",?
+41374,"now im all alone and my joy's turned to moping","sadness",?
+41375,"RM will win the game at the last minutes and Madridistas will say Cules stayed this long watching RM win at the end. Disgusting fanbase","sadness",?
+41376,"@1ChiefsDan Is that pessimism or do you just want him to get another week of rest and healing?","sadness",?
+41377,"@kimdelacreme_ @Srgohdatzme305  I'm there... let me know #sober","sadness",?
+41378,"@kimdelacreme_ @Srgohdatzme305  I'm there... let me know ","sadness",?
+41379,"@fpuebla3 @Osbaldo_A lost a friend too","sadness",?
+41380,"@susanbrodigan @lyricconcert Ha yes- the look of despair!","sadness",?
+41381,"@ImNotInfected — rather someone that could help her. Concern clouded her green eyes, not once having seen a girl alone in the woods and —","sadness",?
+41382,"@_JuliaSteiner : YES ! Right ? I mean I wish you hadn't been discouraged to see #MikeandMolly because so many parallels really -","sadness",?
+41383,"So grim being up at 6","sadness",?
+41384,"Bain of my life having to drive to a cash point, Then to a shop for change in pound coins, Then to the gym all for a bastard sunbed. #grim","sadness",?
+41385,"@wombletheballer well done bro😏 #blues #stategames #captain #shootthegerman","sadness",?
+41386,"@AFCGraMaChroi oh, sorry if I've discouraged you 😂","sadness",?
+41387,"@ycfcnick the city is famous for the shambles, sadly the old street in the centre plays second fiddle to the stadium debacle nowadays!","sadness",?
+41388,"Clean the #sink and make your #bathroom shine.","sadness",?
+41389,"_Her mind is a #dark room,\nDeveloping #Madness  ♨😘","sadness",?
+41390,"Feels like I lost my best friend #lost #fml #missingyou","sadness",?
+41391,"@Micky_A_Lawson Paddy McNair is our joint top scorer......yeah.....justlet that sink in haha","sadness",?
+41392,"*Sigh*  #saddness #afterellen #shitsucks","sadness",?
+41393,"@BoardEveryday @turnorder @pinchback21 80s new wave/techno - or jazz / blues depending my mood","sadness",?
+41394,"@BroggersM19 @Calum250284 He had been retired 20 minutes ago by most blues on here 😊","sadness",?
+41395,"It's been 5 weeks and I still go through depression smh","sadness",?
+41396,"People too weak to follow their own dreams will always find a way to discourage yours.","sadness",?
+41397,"It’s possible changing meds is best not done while under stress. Difficult to tell what part of despair is circumstantial, what is drugs.","sadness",?
+41398,"@seantkin @coachella @RomanDanielsXXX @kodyknightXXX I see my 'eliminate the hanging tongue' campaign is a dismal failure.","sadness",?
+41399,"@HartRamsey #UPLIFT If you're still discouraged it means UR Listening to the wrong voices &amp; looking to the wrong source. Look to the LORD!","sadness",?
+41400,"You know when you're just slightly high, the state between sober and high af? That's beautiful. I wish I could feel like that 24/7.","sadness",?
+41401,"If Troyler will die, I'm gonna die with them\n#troyler #sadness #fuckin'lifeisnotafairytale","sadness",?
+41402,"Never let the sadness of your past ruin your future","sadness",?
+41403,"@nadinekellman yes I can. Don't discourage me.","sadness",?
+41404,"them cold, dark nights are slowly creeping in 🌌","sadness",?
+41405,"@ReaganRachelle if I go I'm going to blow some serious money, idk if that's a sacrifice I'm willing with make","sadness",?
+41406,"@rclemmons much #sadness and #heartbreak","sadness",?
+41407,"Very depressing seeing my whole fam packing to go on holiday tomorrow and I'm just staying here 🙃","sadness",?
+41408,"its a gloomy day, im cuddled in my bed watching brendon covering songs and i couldnt be more relaxed or happy 😋","sadness",?
+41409,"Should've stayed at school cause ain't nobody here","sadness",?
+41410,"@CornerBakery Sorry I missed you :) I stayed up late working and pondering life","sadness",?
+41411,"@suddenlyapples This is an on-going affliction for me and the only cure is more Shiro","sadness",?
+41412,"It's always depressing to sort WordPress plugin recommendations not by 'best' but by 'least offensive in terms of premium features.'","sadness",?
+41413,"*wants body to look a certain way*\n*eats 3 cookies, mac n cheese, kitchen sink, and small neighbor child*","sadness",?
+41414,"Their engine runs on fuel called whining :-)\n\nU jst  hv 2b observant..\nHar din Rona dhona &amp; complain. \nHappy news makes them unhappy :-)","sadness",?
+41415,"Caballero's passing remains absolutely dreadful I see!","sadness",?
+41416,"Listening to old school house music kentphonic-sunday showers 'hanging around' 'sing it back' #blues","sadness",?
+41417,"I truly feel like science has the ability to make a milk out of anything ... cashew milk, hemp milk, pine nut milk, dandelion milk","sadness",?
+41418,"@jordan_grimmer If that's messin I can't wait to see #serious !! Brilliant stuff","sadness",?
+41419,"@AniahROSE I know smh. My heart sunk into my stomach.","sadness",?
+41420,"How many tweets is that now? How fast was I going? God, I love being #sober and #intelligent.","sadness",?
+41421,"@katethecursed @shannonrdk LOL this day is too gloomy for being people, should've canceled and stayed in bed","sadness",?
+41422,"@funkxwidme only #true #depression #fans will get this one 😂😂","sadness",?
+41423,"I'm looking for a good promoter #rock #blues","sadness",?
+41424,"@danhirtle @Bell Another unhappy customer.  #secreteyes","sadness",?
+41425,"When I was new, I hate the Judge Judy sponsorship style- but looking back it was the only thing that worked. #recovery #sober #cantconacon","sadness",?
+41426,"@Hannahcolleen06 I have 12 &amp; that's the only one I didn't like 😂 mine comes out patchy. It's the only dark color by her I have tho.","sadness",?
+41427,"I know it's the final day of summer when it's the finale of @CBSBigBrother #sadness","sadness",?
+41428,"lost 11 lbs since I got married (eating healthy) &amp; ive gone from a 9:47 mile to a 8:50 mile in 2 weeks. #areyousureimagedout #fitness","sadness",?
+41429,"@TelegraphNews why is this evil corrupt fuck still knocking about? The wrong people die I'm telling you. Do you job grim reaper!","sadness",?
+41430,"Those were the times, I thought I can never be sober. But still His grace are beyond my limits 🙏🏾","sadness",?
+41431,"@komaebun He just has that way of thinking, he wants absolute hope born from absolute despair.","sadness",?
+41432,"@asjoshtaylor sadly I don't think I'll see you on tour, but have fun, you're gonna rock! 🎉👌🏻💙 #HotForMeTour","sadness",?
+41433,"@metalAndTheGeek @astoldbyfANGIRL SAME! I always say it was the best time of my life. I closed my store down and it was so depressing","sadness",?
+41434,"@kole_holland don't fret, there's another game on at 8 #staytuned","sadness",?
+41435,"Historically Japanese have always been into #jazz and #blues. The 70s dark age of jazz big names like C.C. &amp; M.D. were surviving on Tokyo.","sadness",?
+41436,"Honestly today I just felt like maybe track isn't for me #sad","sadness",?
+41437,"Honestly today I just felt like maybe track isn't for me ","sadness",?
+41438,"@SiWheeler78 never a dull moment, hope you had a gd trip down","sadness",?
+41439,"nooooo. Poor Blue Bell! not again. #sad","sadness",?
+41440,"nooooo. Poor Blue Bell! not again. ","sadness",?
+41441,"@andreamitchell said @berniesanders not only did not play up HRC in campaigning 4 her in OH but he did not discourage 3rd Party vote. TRUE??","sadness",?
+41442,"im having the worst week ever and i cant even go home yet to just sulk in my bed","sadness",?
+41443,"Got a #serious #hyper #predator #heckler situation over here","sadness",?
+41444,"@5SOS I swear I will not go mourn because😭😭💔💔","sadness",?
+41445,"@_iConceitedOne_  Hi! We hate that you're unhappy your bill keeps going up! What unique features do you want with your plan? ^RobertS","sadness",?
+41446,"@jimmyfallon @ShawnMendes I'm just a sucker for pine, I wanna rake you up, I wanna pile you down, I'm just a sucker for pine #FallSongs","sadness",?
+41447,"@mizzymaxx @Bsmarz22 @ssmik2309 haha Bro she's sadly married man 😩😩","sadness",?
+41448,"Fuck yall @Panthers for hiring that GOP PR guy to discourage Cam from speakinh his mind and heart about racism","sadness",?
+41449,"@stevierayrob Can Elliot Friedman please stop talking, you are clueless. You haven't seen the ball since the kickoff. #mope","sadness",?
+41450,"All work and no play makes Jack a dull boy","sadness",?
+41451,"Yes I am picking up sticks and pine cones in my front yard","sadness",?
+41452,"Seeing an old coworker and his wife mourn the loss of their 23 year old daughter was one of the saddest things I've ever seen 😢","sadness",?
+41453,"can it stay gloomy but get cold pls","sadness",?
+41454,"@macmacm43 jeezus God #dark","sadness",?
+41455,"@macmacm43 jeezus God ","sadness",?
+41456,"This is the first time I've been sober on my birthday in 6 years. #recovery #sobriety #sober #soberissexy #sobernative","sadness",?
+41457,"Have any of you ever stayed in hostels overseas? My only frame of reference is the movie Hostel, and we all know how that went.","sadness",?
+41458,"the thing with Twitter is i only remember to tweet when i'm bored or alone and then it comes across like i have a really dull and sad life.👽","sadness",?
+41459,"I need all your attention! If I don't I'll pout..","sadness",?
+41460,"It would appear it's a good year for the #blues","sadness",?
+41461,".@WotzupCapeTown - thanks for sharing! Surprise guests! @HumanJurgen &amp; visiting US Tenor Sax @CunninghamColin. #livemusic #capetown #blues","sadness",?
+41462,"@Simon_Barrett I will watch @BlairWitchMovie when it opens in Mexico in a week. Thank you for making it and don't be discouraged.","sadness",?
+41463,"Well, I had hopes for today. No go. #unhappy","sadness",?
+41464,"Henny and pine apples 🤔","sadness",?
+41465,"@pete_ferriday Aww rest your weary head here","sadness",?
+41466,"I've been loving you too long #OtisRedding #blues","sadness",?
+41467,"@charles_gaba No, I am probably the person most likely to completely understand how gobsmacked you were to learn how true that is. #sadly","sadness",?
+41468,"@_MrAminuddin @ejainews @_AlifH @AhmadFuadAdnan dont play with this master noob u want to win.. #serious","sadness",?
+41469,"@JohnVerdejo Mannn I can't count how many times I've had the '#PR's power grid needs some serious updating' conversation...","sadness",?
+41470,"Up on melancholy hill","sadness",?
+41471,"Speech was bold coz it wasn't written by PM NS bt the expression/tone was his own dull n dim","sadness",?
+41472,"Dropped my phone in the sink earlier.No sound, but everythin else works.Prepared myself for life without music until I put my earphones in","sadness",?
+41473,"B day next week, catch the sauce and watch the heaviness!","sadness",?
+41474,"@GrimsToyShow @hunna_chunna you got hacked on your gaming channel grim by evil wood clowns yesterday September 20 and September 21 today","sadness",?
+41475,"How long will they mourn me?","sadness",?
+41476,"@MUTGuru I know guys that sink $1000s into the game and only to build a team and play solos. But this hear you make nothing on solos.","sadness",?
+41477,"Rooneys fucking untouchable isn't he? Been fucking dreadful again, depay has looked decent(ish)tonight","sadness",?
+41478,"Ibiza blues hitting me hard already wow","sadness",?
+41479,"Hey man are you asian?!' Nah man im hispan...'nah you just high as hell.' Some random crackhead in the wal-mart parking lot...cmon #sober","sadness",?
+41480,"Does she really need to pout all the time - getting on my nerves #GBBO","sadness",?
+41481,"Yet again another night I should've stayed in😊","sadness",?
+41482,"Some questions you get on Twitter make you want to despair. We've been so battered. We complain but aren't convinced things could be better.","sadness",?
+41483,"it's still not sunk in that im seeing joe next month, im so grateful and excited shit","sadness",?
+41484,"@modelady24 I know, right? I had a tinge of the same thought. Glad it's Six from BSG, though. Happy the show stayed consistent after break.","sadness",?
+41485,"Rooney ! Oh dear, oh dear ! Fucking dreadful 🙈⚽️⚽️","sadness",?
+41486,"@Batman_ofgotham Her golden brown hues met with those baby blues as her arms crossed over the breasts he had been gulking at. 'Let me guess-","sadness",?
+41487,"@zombieisIand yeah friends of minw have witnesse accidents and a road near me like??? cars hav like sunk?? but ih gosh be safe okay !!","sadness",?
+41488,"@charles_gaba @NateSilver538 @DavMicRot @FiveThirtyEight A litany of name-calling. How dull.","sadness",?
+41489,"That's how you start a season that's how you open the show #show #them #how #dark #hell #can #get #Empire","sadness",?
+41490,"@Orrible_Ives I didn't say anything bad about the situation great mate, can't believe some were. Makes me despair of humanity","sadness",?
+41491,"I know I've painted quite a grim picture of your chances. But if you simply stand here, we will both surely die.","sadness",?
+41492,"I honestly feel nothing towards either of my parents and it's pretty depressing","sadness",?
+41493,"@AshleyCWilson @MrDavidHobbs @IndyCaronNBCSN Glad the TV coverage was so successful because the attendance looked pretty dismal.","sadness",?
+41494,"@OzelleM man imagine # Ultra is promoting carnival. I think u need to be the chairperson #serious. Cause am hearing nothing","sadness",?
+41495,"Feminists should ask themselves, why they're so unhappy, and why they lack love in their lives. Is it b/c they are fighting a losing game?","sadness",?
+41496,"life is hard., its harder if ur stupid #life #love  #sadderness #moreofsad #howdoestears #whatislife","sadness",?
+41497,"life is hard., its harder if ur stupid #life #love #sadness #sadderness #moreofsad #howdoestears #whatislife","sadness",?
+41498,"@MollieTebbatt guess what I'm doing? watching your great grandad sink the titanic..","sadness",?
+41499,"I am worried that she felt safe. #unhappy","sadness",?
+41500,"Happy Birthday Roy Buchanan, born on this day in 1939. #roybuchanan #guitar #blues #happybrithday","sadness",?
+41501,"Cmon blues we are 2 home games away from another CC semi - I love those Wembley away days. Being on anyone at home please! ⚽","sadness",?
+41502,"Probs spent a grand total of five minutes sober since Sunday evening :) #freshers","sadness",?
+41503,"On the wheel as we grow older and become aware of ourselves as individuals with a dull responsibility in life?","sadness",?
+41504,"@childctweets sad people are that sick and boring 😬😬😬","sadness",?
+41505,"This whole #VanRE + extradition might turn into a Pandora's box. JT has no idea about that murky corrupt guanxi in China; Toad vs Dada ;-)","sadness",?
+41506,"@MarkedMurderer Orion's eyes narrowed as he gazed down at the girl, ice cold blues meeting a softer than usual green. His instinct told him-","sadness",?
+41507,"Well I won't be doing a unboxing of the iPhone 7 plus on my channel until November sadly. Thank you @TMobile @Apple Staten Island NY smh","sadness",?
+41508,"@RealTimBooth I've never been fond of having dark eyes until seeing this share.","sadness",?
+41509,"... Huh. Perhaps... Because we're both so dreary, we get along well?","sadness",?
+41510,"@CrystiCaro yeah agree - I think it was a family member and they covered up #sad","sadness",?
+41511,"@CrystiCaro yeah agree - I think it was a family member and they covered up ","sadness",?
+41512,"@ExaltedChampion - the jest, Kara didn't chuckle, instead her baby blues were narrowed in on Adam like a warning. If his brain /wasn't/ -","sadness",?
+41513,"Sometimes the support network is causing the damage. \n\n#support #Damaged #alone #tired #lost #hurt #nojustice #depression #surivivor #NoMore","sadness",?
+41514,"@SalterUK second pair of scales I have bought that have stopped working after battery change. Is this an issue you are aware of?  #unhappy","sadness",?
+41515,"I saw those dreams dashed &amp;&amp; divided like a million stars in the night sky that I wished on over &amp;&amp; over again ~ sparkling &amp;&amp; broken.","sadness",?
+41516,"Boy oh boy! our weekday schedule is crazy! But no matter how tired I am I do whatever it takes to keep the smile on Kai's face from a frown","sadness",?
+41517,"@SussexMistress @sarahb45 @MsEvilyne @MissJessicaWood I'd be perched on that, unfortunately wrapped in heavy chains! #sink...","sadness",?
+41518,"@flybe Doesn't explain the ability to land at Manchester but not Bradford - other than more convenient for Flybe. Many unhappy travelers","sadness",?
+41519,"why the fuck does my mum want me to put corn in the curry?! #grim","sadness",?
+41520,"@Aamnaa___ @drkarthik_n your per capita income is almost same like us. Gini Coefficient is very dismal. Ambitions are high but output Zero.","sadness",?
+41521,"Looking nice forward to playing at Paper Dress Vintage in Hackney this evening - get there early as I'll be on at 8pm! @paperdressed #blues","sadness",?
+41522,"Winner #Champion #school #lastyear #gouniversity #university #me #dark #Black #webstagram #blackandwhite","sadness",?
+41523,"@ITdominiccoyle @IrishTimesBiz Between Barroso going to Goldman and this the @EU_Commission is getting a very serious self inflicted problem","sadness",?
+41524,"@pottermore : I can't find my patronus, the website doesn't work, I can't even see the questions.... #sadness...","sadness",?
+41525,"Nutella is pine green forget me nots are ivory frozen is god","sadness",?
+41526,"I was not made for this world. #empath #unhappy","sadness",?
+41527,"She used to be beautiful, but she lived her life too fast - Forest City Joe #blues #blinddogradio","sadness",?
+41528,"Why does Candice constantly pout #GBBO 💄😒","sadness",?
+41529,"@redBus_in #unhappy with #redbus CC, when I talked with them before a week still they didn't initiate the refund of the transaction.","sadness",?
+41530,"@AceOperative789 no pull him afew weeks ago, sadly theres no game audio or sound affects cause i played it on my phone and tryed everything","sadness",?
+41531,"I'm buying art supplies and I'm debating how serious is it to buy acrylic paint.","sadness",?
+41532,"@sainsburys Could you ask your Chafford Hundred store to turn on their car park lights? A bit scary these dark nights! Thanks.","sadness",?
